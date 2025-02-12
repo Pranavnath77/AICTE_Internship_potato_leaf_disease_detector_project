@@ -12,7 +12,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 
 ##  Key Features
 
- **AI-based Image Classification:** Uses a Convolutional Neural Network (CNN) to detect diseases.  **Streamlit Web Application:** Provides an interactive and user-friendly interface.  **Pretrained Model Integration:** Uses a trained deep learning model for predictions.  **Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles.  **Fast & Efficient:** Provides instant disease detection results.
+ 1)**AI-based Image Classification:** Uses a Convolutional Neural Network (CNN) to detect diseases.  2)**Streamlit Web Application:** Provides an interactive and user-friendly interface.  3)**Pretrained Model Integration:** Uses a trained deep learning model for predictions. 4)**Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles.  5)**Fast & Efficient:** Provides instant disease detection results.
 
 ---
 
@@ -28,7 +28,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
 ```
 📂 Potato-Disease-Detection
@@ -44,14 +44,14 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 
 ##  Installation & Setup
 
-### 1️⃣ **Clone the Repository**
+### 1️) **Clone the Repository**
 
 ```sh
  git clone https://github.com/Pranavnath77/Potato-Disease-Detection.git
  cd Potato-Disease-Detection
 ```
 
-### 2️⃣ **Create Virtual Environment (Optional, Recommended)**
+### 2️) **Create Virtual Environment (Optional, Recommended)**
 
 ```sh
  python -m venv venv
@@ -59,13 +59,13 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
  venv\Scripts\activate     # For Windows
 ```
 
-### 3️⃣ **Install Required Libraries**
+### 3️) **Install Required Libraries**
 
 ```sh
  pip install -r requirements.txt
 ```
 
-### 4️⃣ **Run the Streamlit Web App**
+### 4️) **Run the Streamlit Web App**
 
 ```sh
  streamlit run web.py
