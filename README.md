@@ -13,9 +13,13 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 ##  Key Features
 
  1)**AI-based Image Classification:** Uses a Convolutional Neural Network (CNN) to detect diseases.
- 2)**Streamlit Web Application:** Provides an interactive and user-friendly interface.  
+ 
+ 2)**Streamlit Web Application:** Provides an interactive and user-friendly interface. 
+ 
  3)**Pretrained Model Integration:** Uses a trained deep learning model for predictions. 
- 4)**Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles.  
+ 
+ 4)**Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles. 
+
  5)**Fast & Efficient:** Provides instant disease detection results.
 
 ---
@@ -51,8 +55,9 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 ### 1️) **Clone the Repository**
 
 ```sh
- git clone https://github.com/Pranavnath77/Potato-Disease-Detection.git
- cd Potato-Disease-Detection
+ git clone https://github.com/Pranavnath77/AICTE_Internship_potato_leaf_disease_detector_project.git
+cd AICTE_Internship_potato_leaf_disease_detector_project
+
 ```
 
 ### 2️) **Create Virtual Environment (Optional, Recommended)**
