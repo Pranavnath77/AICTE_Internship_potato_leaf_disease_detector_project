@@ -55,7 +55,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 ### 1️) **Clone the Repository**
 
 ```sh
- git clone https://github.com/Pranavnath77/AICTE_Internship_potato_leaf_disease_detector_project.git
+git clone https://github.com/Pranavnath77/AICTE_Internship_potato_leaf_disease_detector_project.git
 cd AICTE_Internship_potato_leaf_disease_detector_project
 
 ```
