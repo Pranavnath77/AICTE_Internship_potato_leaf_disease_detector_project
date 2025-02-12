@@ -47,7 +47,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 ### 1️⃣ **Clone the Repository**
 
 ```sh
- git clone https://github.com/yourusername/Potato-Disease-Detection.git
+ git clone https://github.com/Pranavnath77/Potato-Disease-Detection.git
  cd Potato-Disease-Detection
 ```
 
@@ -71,7 +71,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
  streamlit run web.py
 ```
 
-After running the above command, open [**http://localhost:8501**](http://localhost:8501) in your browser to access the application.
+After running the above command, open **[http://localhost:8501](http://localhost:8501)** in your browser to access the application.
 
 ---
 
@@ -118,8 +118,8 @@ Performance graphs for accuracy and loss trends are available in **Train\_potato
 
 ## 🤝 Contributors
 
-- **Your Name** - Pranav Nath
-- **Professor's Name** - Aadharsh P, Jay Rathod
+- **Pranav Nath** - Developer
+- **[Aadharsh P, Jay Rathod]** - Project Guide
 
 ---
 
@@ -132,6 +132,9 @@ This project is **open-source** and available for academic and research purposes
 ## 🌟 Acknowledgment
 
 Special thanks to **[Dataset Source]** for providing the images used for training.
+
+
+
 
 
 
