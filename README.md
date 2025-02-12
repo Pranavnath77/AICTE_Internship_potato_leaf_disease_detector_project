@@ -18,9 +18,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
  
  3)**Pretrained Model Integration:** Uses a trained deep learning model for predictions. 
  
- 4)**Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles. 
-
- 5)**Fast & Efficient:** Provides instant disease detection results.
+ 4)**Fast & Efficient:** Provides instant disease detection results.
 
 ---
 
@@ -30,7 +28,6 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 - **TensorFlow** - Deep learning framework for model training
 - **PyTorch** - Used for experimentation and initial model building
 - **Matplotlib & Seaborn** - Data visualization
-- **OpenCV** - Image preprocessing and enhancement
 - **Streamlit** - Web app development
 - **Jupyter Notebook** - Model training and testing
 
