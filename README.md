@@ -12,7 +12,11 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 
 ##  Key Features
 
- 1)**AI-based Image Classification:** Uses a Convolutional Neural Network (CNN) to detect diseases.  2)**Streamlit Web Application:** Provides an interactive and user-friendly interface.  3)**Pretrained Model Integration:** Uses a trained deep learning model for predictions. 4)**Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles.  5)**Fast & Efficient:** Provides instant disease detection results.
+ 1)**AI-based Image Classification:** Uses a Convolutional Neural Network (CNN) to detect diseases.
+ 2)**Streamlit Web Application:** Provides an interactive and user-friendly interface.  
+ 3)**Pretrained Model Integration:** Uses a trained deep learning model for predictions. 
+ 4)**Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles.  
+ 5)**Fast & Efficient:** Provides instant disease detection results.
 
 ---
 
