@@ -2,7 +2,7 @@
 
 # 🌱 Potato Leaf Disease Detection
 
-## 📌 Project Overview
+##  Project Overview
 
 Potato crops are highly susceptible to diseases that can severely impact yield and quality. This project leverages **Artificial Intelligence (AI) and Deep Learning** techniques to detect diseases in potato leaves using image analysis. By analyzing leaf images, the system can classify the leaf as **healthy** or suffering from diseases such as **Early Blight** and **Late Blight**.
 
@@ -10,13 +10,13 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-✅ **AI-based Image Classification:** Uses a Convolutional Neural Network (CNN) to detect diseases. ✅ **Streamlit Web Application:** Provides an interactive and user-friendly interface. ✅ **Pretrained Model Integration:** Uses a trained deep learning model for predictions. ✅ **Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles. ✅ **Fast & Efficient:** Provides instant disease detection results.
+ **AI-based Image Classification:** Uses a Convolutional Neural Network (CNN) to detect diseases.  **Streamlit Web Application:** Provides an interactive and user-friendly interface.  **Pretrained Model Integration:** Uses a trained deep learning model for predictions.  **Multi-Orientation Image Processing:** Improves accuracy by analyzing images from different angles.  **Fast & Efficient:** Provides instant disease detection results.
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **Python** - Programming language
 - **TensorFlow** - Deep learning framework for model training
@@ -28,7 +28,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 
 ---
 
-## 🏗️ Project Structure
+## 🏗 Project Structure
 
 ```
 📂 Potato-Disease-Detection
@@ -42,7 +42,7 @@ With this tool, farmers can take timely actions to prevent crop loss, ensuring b
 
 ---
 
-## 📥 Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ **Clone the Repository**
 
@@ -75,7 +75,7 @@ After running the above command, open **[http://localhost:8501](http://localhost
 
 ---
 
-## 📸 How to Use the Application?
+##  How to Use the Application?
 
 1. Open the **Streamlit app** in your browser.
 2. Upload an image of a potato leaf.
@@ -84,7 +84,7 @@ After running the above command, open **[http://localhost:8501](http://localhost
 
 ---
 
-## 🛠️ Model Training Process
+## 🛠  Model Training Process
 
 1. **Dataset Preparation:** Images of potato leaves are collected and labeled as **Healthy, Early Blight, and Late Blight**.
 2. **Preprocessing:** Images are resized, normalized, and augmented to improve model performance.
@@ -99,7 +99,7 @@ After running the above command, open **[http://localhost:8501](http://localhost
 
 ---
 
-## 📊 Accuracy & Performance
+##  Accuracy & Performance
 
 - **Training Accuracy:** **X%**
 - **Validation Accuracy:** **Y%**
@@ -108,7 +108,7 @@ Performance graphs for accuracy and loss trends are available in **Train\_potato
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 🔹 Extend support for multiple crops and diseases.\
 🔹 Improve model accuracy using advanced architectures.\
@@ -116,20 +116,20 @@ Performance graphs for accuracy and loss trends are available in **Train\_potato
 
 ---
 
-## 🤝 Contributors
+##  Contributors
 
 - **Pranav Nath** - Developer
 - **[Aadharsh P, Jay Rathod]** - Project Guide
 
 ---
 
-## 📜 License
+##  License
 
 This project is **open-source** and available for academic and research purposes.
 
 ---
 
-## 🌟 Acknowledgment
+##  Acknowledgment
 
 Special thanks to **[Dataset Source]** for providing the images used for training.
 
