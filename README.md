@@ -135,9 +135,6 @@ This project is **open-source** and available for academic and research purposes
 
 ---
 
-##  Acknowledgment
-
-Special thanks to **[Dataset Source]** for providing the images used for training.
 
 
 
