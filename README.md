@@ -118,7 +118,7 @@ Performance graphs for accuracy and loss trends are available in **Train\_potato
 
 ## 🤝 Contributors
 
-- **Your Name** - Pranavnath
+- **Your Name** - Pranav Nath
 - **Professor's Name** - Aadharsh P, Jay Rathod
 
 ---
@@ -133,5 +133,5 @@ This project is **open-source** and available for academic and research purposes
 
 Special thanks to **[Dataset Source]** for providing the images used for training.
 
-📢 If you like this project, give it a ⭐ on **GitHub**!
+
 
